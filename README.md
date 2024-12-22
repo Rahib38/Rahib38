@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadimul Rahib</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
-- 💬 Ask me about **react**
+
 
 - 📫 How to reach me **nadimulrahib38@gmail.com**
 
