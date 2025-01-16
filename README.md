@@ -62,30 +62,6 @@
 # 💻 Tech Stack:
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📚 My Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [use-wakatime-and-initialize-your-coding-time](https://dev.to/mahiamomo/use-wakatime-and-initialize-your-coding-time-5h6k)
-- [schizophrenia-is-a-serious-mental-health-condition-and-the-experiences-of-hallucinations](https://medium.com/@mahiamomo12/schizophrenia-is-a-serious-mental-health-condition-and-the-experiences-of-hallucinations-fae51d73e4d1)
-- ["How I Hacked My Brain to Crave Coding Every Day"](https://mahiamomo.hashnode.dev/how-i-hacked-my-brain-to-crave-coding-every-day)
-- ["16 Essential Qualities That Prove You Are a Skilled Programmer”](https://mahiamomo.hashnode.dev/16-essential-qualities-that-prove-you-are-a-skilled-programmer)
-- ["Does Sass Offer the Features of a Programming Language?"](https://dev.to/mahiamomo/is-saas-giving-us-the-flavour-of-programming-language-2jo4)
-<!-- BLOG-POST-LIST:END -->       <a href="https://app.daily.dev/mahiamomo"><img src="https://api.daily.dev/devcards/v2/IpxMFimY50aNXRMaBWGbD.png?type=default&r=3yw" width="356" alt="Mahia  Momo's Dev Card"/></a>
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 # ⚡Git Stats ⚡
 <div align="center">
@@ -121,7 +97,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahiamOmO&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Rahib38&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
