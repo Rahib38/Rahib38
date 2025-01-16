@@ -89,10 +89,10 @@
 
 # ⚡Git Stats ⚡
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mahiamomo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=mahiamomo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Rahib38&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Rahib38&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mahiamomo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Rahib38&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
 </div>
 
 <br/><br/>
@@ -128,7 +128,7 @@
 
 ### 🔝 Top Contributed Repo 
 
-![](https://github-contributor-stats.vercel.app/api?username=mahiamOmO&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Rahib38&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mahiamomo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahiamomo" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mahiamomo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rahib38" /></a></p><br><br>
